@@ -19,8 +19,9 @@ public class CreateFile {
                 System.out.println("File already exists at " + myFile.getAbsolutePath());
             }
         } catch(IOException e){
-                System.out.println("An error occurred while creating new file. ");
-                e.printStackTrace();
+            System.out.println("An error occurred while creating new file. ");
+            e.printStackTrace();
         }
     }
 }
+
