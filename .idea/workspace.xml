@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ca8d1-0a57-4489-9b34-c916d6f96934" name="Changes" comment="" />
+    <list default="true" id="4f1ca8d1-0a57-4489-9b34-c916d6f96934" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/CreateFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/CreateFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/WriterFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/WriterFile.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +33,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/G00419511@atu.ie/OneDrive - Atlantic TU/Object Oriented Programming/Week 8/Week8Lab/src/main/java/atu/ie/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -38,6 +49,29 @@
       <workItem from="1700572089940" duration="7000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Feature2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
