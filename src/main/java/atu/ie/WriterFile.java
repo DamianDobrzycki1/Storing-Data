@@ -21,3 +21,4 @@ public class WriterFile {
         }
     }
 }
+//Creates a new file and prints sentence into it
